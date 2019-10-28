@@ -1,5 +1,6 @@
 # A-Good-Cyber-Security-List
-Please note, this list is not as up to date as the html that is in the repo. Please import the html bookmarks into your browser for the most up to date list. I will eventually get around to updating this list here.
+Please note, this list is not as up to date as the html bookmarks list that is in the repo. 
+Please import the html bookmarks into your browser for the most up to date list and cleaner layout, since it is organized into folders rather than one large list.
 
 Bookmarks
 =========
