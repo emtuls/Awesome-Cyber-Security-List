@@ -180,6 +180,8 @@ Bookmarks
 
 [Learn C in Y Minutes](https://learnxinyminutes.com/docs/c/)
 
+[C Tutorial](https://www.scaler.com/topics/c/)
+
 [Home | Lynda | Georgia Institute of Technology | Atlanta, GA](http://lynda.gatech.edu/)
 
 [How Do I Declare A Function Pointer in C?](https://goshdarnfunctionpointers.com/)
@@ -189,10 +191,14 @@ Bookmarks
 [Function Pointers in C and C++ - Cprogramming.com](https://www.cprogramming.com/tutorial/function-pointers.html)
 
 [C documentation — DevDocs](https://devdocs.io/c/)
+  
+[C++ Tutorial](https://www.scaler.com/topics/cpp/)
 
 [Intro to OS - C Programming Q&A - YouTube](https://www.youtube.com/watch?v=UmLpG077DcU)
 
 [C Programming - Q&A.pptm - Google Slides](https://docs.google.com/presentation/d/1B7_q_FjpWau-1-A7NFKkDUHLHJMIDKSwCK4dM0nSlXg/edit#slide=id.p17)
+  
+[JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
 
 [Amazon.com: C Programming Language, 2nd Edition (8601410794231): Brian W. Kernighan, Dennis M. Ritchie: Books](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 
