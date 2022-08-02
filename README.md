@@ -197,6 +197,8 @@ Bookmarks
 [Amazon.com: C Programming Language, 2nd Edition (8601410794231): Brian W. Kernighan, Dennis M. Ritchie: Books](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 
 [The Linux Programming Interface [Book]](https://www.oreilly.com/library/view/the-linux-programming/9781593272203/)
+  
+[Free resource to learn c programming](https://www.scaler.com/topics/c/)  
 
 </dl>
 
