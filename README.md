@@ -82,12 +82,16 @@ Bookmarks
 
 [Home | Linux Journey](https://linuxjourney.com/)
 
+[Intro to Linux with certification](https://www.darkrelay.com/challenge-page/introtolinux)
+
 </dl>
 
 
 ### Complete Noob Intro to Cyber Security
 
 <dl>
+
+[Free Intro to Cybersecurity with certification](https://www.darkrelay.com/challenge-page/cybersecurity)
 
 [Live Overflow - Where to start with hacking](https://www.youtube.com/watch?v=2TofunAI6fU)
 
@@ -716,6 +720,8 @@ Bookmarks
 
 [Berkeley Python Course](http://www-inst.eecs.berkeley.edu/~selfpace/python/)
 
+[Python 101 course](https://www.darkrelay.com/challenge-page/python-101-course)
+
 [The Python Tutorial — Python 3.7.0 documentation](https://docs.python.org/3/tutorial/)
 
 [Welcome to Python 101! — Python 101 1.0 documentation](https://python101.pythonlibrary.org/)
@@ -723,6 +729,8 @@ Bookmarks
 [MIT - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
 
 [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
+
+[Python 201 course](https://www.darkrelay.com/challenge-page/python-201-course)
 
 </dl>
 
