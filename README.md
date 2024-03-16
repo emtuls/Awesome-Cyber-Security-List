@@ -40,8 +40,6 @@ Bookmarks
 
 [Offensive Security 2013 - FSU - Lecture5: Reverse Engineering (x86) Workshop Day 1 - YouTube](https://www.youtube.com/watch?v=Pg8bmV9vcKg&feature=youtu.be)
 
-[Offensive Computer Security Home Page Spring 2014](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
-
 [Training for manipulating all kinds of things: Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
 
 </dl>
@@ -174,8 +172,6 @@ Bookmarks
 
 [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
-[CS50](https://cs50.harvard.edu/2018/fall/)
-
 [Practical Programming in C | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
 
 [Learn C in Y Minutes](https://learnxinyminutes.com/docs/c/)
@@ -277,6 +273,12 @@ Bookmarks
 <dl>
 
 [c preprocessor - #define macro for debug printing in C? - Stack Overflow](https://stackoverflow.com/questions/1644868/define-macro-for-debug-printing-in-c)
+
+</dl>
+
+<dl>
+
+[What is CMMC?](https://logit.io/blog/post/what-is-cmmc)
 
 </dl>
 
@@ -563,8 +565,6 @@ Bookmarks
 [gabime/spdlog: Fast C++ logging library.](https://github.com/gabime/spdlog)
 
 [ObjectOrientedProgramminginC4thEdition.pdf](https://fac.ksu.edu.sa/sites/default/files/ObjectOrientedProgramminginC4thEdition.pdf)
-
-[CPP_v1.1.pdf](https://ms.sapientia.ro/~manyi/teaching/c++/CPP_v1.1.pdf)
 
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
@@ -956,8 +956,6 @@ Bookmarks
 
 <dl>
 
-[Easy x86-64](http://ian.seyler.me/easy_x86-64/)
-
 [Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
 
 [c - Can I use Intel syntax of x86 assembly with GCC? - Stack Overflow](https://stackoverflow.com/questions/9347909/can-i-use-intel-syntax-of-x86-assembly-with-gcc)
@@ -1030,8 +1028,6 @@ Bookmarks
 
 [Full Stack Book: crash-course-django](https://github.com/codexplore-io/crash-course-django)
 
-[Super Crash Course in Full Stack Web Development with Python and Django](http://www.codexplore.io/books/crash-course/)
-
 [The Odin Project | Free Course on Web Development](https://www.theodinproject.com/home)
 
 [Syllabus - CS50 Beyond](https://cs50.harvard.edu/college/beyond/syllabus/)
@@ -1059,8 +1055,6 @@ Bookmarks
 
 
 [Learn Shell Programming - Free Interactive Shell Programming Tutorial](http://www.learnshell.org/)
-
-[The Bash Guide](https://guide.bash.academy/)
 
 [BashGuide - Greg's Wiki](http://mywiki.wooledge.org/BashGuide)
 
@@ -1150,13 +1144,9 @@ Bookmarks
 
 <dl>
 
-[CS50](https://cs50.harvard.edu/2018/fall/)
-
 [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
 [CS50 - Reference](https://reference.cs50.net/)
-
-[Introduction to Game Development](https://cs50.github.io/games/)
 
 [CSCI S-51: Introduction to Computer Science II](https://hc3.seas.harvard.edu/walton/cs51/web/index.html)
 
@@ -1746,8 +1736,6 @@ Bookmarks
 
 [Georgia Tech - High Performance Computer Architecture - Udacity](https://classroom.udacity.com/courses/ud007)
 
-[MIT - Comp Org, Arch, and Digital Design](https://6004.mit.edu/web/spring19/course_information)
-
 [Cornell - CS 3410 Comp System Organization - Fall 2016](http://www.cs.cornell.edu/courses/cs3410/2016fa/)
 
 [CMU - Intro To Computer Architecture - Spring 2019](http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture)
@@ -2192,8 +2180,6 @@ Bookmarks
 
 [Linux Device Drivers, 3rd Edition: Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman: 9780596005900: Amazon.com: Books](https://www.amazon.com/Linux-Device-Drivers-Jonathan-Corbet/dp/0596005903/ref=sr_1_4?ie=UTF8&qid=1483650712&sr=8-4&keywords=understanding+linux+kernel)
 
-[Linux Kernel Teaching — The Linux Kernel documentation](https://linux-kernel-labs.github.io/master/)
-
 [Is linux 'the eudyptula challenge' still alive? - Quora](https://www.quora.com/Is-linux-the-eudyptula-challenge-still-alive)
 
 </dl>
@@ -2307,8 +2293,6 @@ Bookmarks
 ### UMBC Distributed Systems
 
 <dl>
-
-[IS651 | Distributed Systems](https://userpages.umbc.edu/~jianwu/is651/651.syll.s18.html)
 
 [Distributed Systems Textbook](https://userpages.umbc.edu/~jianwu/is651/651book/is651-toc.php)
 
@@ -2545,8 +2529,6 @@ Bookmarks
 [Deep Learning Summer School, Montreal 2015 - VideoLectures - VideoLectures.NET](http://videolectures.net/deeplearning2015_montreal/)
 
 [9.520/6.860, Fall 2017](http://www.mit.edu/~9.520/fall17/)
-
-[Stanford University: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 
 [Columbia - Machine Learning 4771](http://www.cs.columbia.edu/~jebara/4771/index.html)
 
@@ -3955,8 +3937,6 @@ Bookmarks
 [RPISEC - Malware Analysis 2015](https://github.com/RPISEC/Malware)
 
 [Malware Unicorn 101](https://securedorg.github.io/RE101/)
-
-[Malware Unicorn 102](https://securedorg.github.io/RE102/)
 
 [Intro to RE/Malware Analysis](https://www.youtube.com/watch?feature=youtu.be&v=-Ml04jPMH3U&app=desktop)
 
